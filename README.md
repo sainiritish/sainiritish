@@ -13,16 +13,27 @@
 
 ### 💫 About Me
 
-- 🔭 I’m currently working on **Bank Account Software**
-- 🌱 Currently diving deep into **MERN Stack**
-- 🤝 Looking for help with **ERI CRM**
-- 👯 Eager to collaborate on **Online Trading System**
+<table>
+  <tr>
+    <td width="60%">
+      
+- 🔭 I’m currently working on **Bank Account Software**  
+- 🌱 Currently diving deep into **MERN Stack**  
+- 🤝 Looking for help with **ERI CRM**  
+- 👯 Eager to collaborate on **Online Trading System**  
 - 💬 Ask me about:  
-  **React, MERN, JavaScript, HTML, CSS, Tailwind CSS, Java, OOPS, CRUD**
-- 📫 Reach me at: **sainiritish2000@gmail.com**
-- 👨‍💻 Portfolio: [ritishsaini.site](https://ritishsaini.site)
-- 📄 Resume: [ritishsaini.site/cv](https://ritishsaini.site/cv)
-- ⚡ Fun fact: **I’m a secret stand-up comedian 🤫**
+  **React, MERN, JavaScript, HTML, CSS, Tailwind CSS, Java, OOPS, CRUD**  
+- 📫 Reach me at: **sainiritish2000@gmail.com**  
+- 👨‍💻 Portfolio: [ritishsaini.site](https://ritishsaini.site)  
+- 📄 Resume: [ritishsaini.site/cv](https://ritishsaini.site/cv)  
+- ⚡ Fun fact: **I’m a secret stand-up comedian 🤫**  
+
+    </td>
+    <td width="40%" align="center">
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding gif" width="300" />
+    </td>
+  </tr>
+</table>
 
 ---
 
