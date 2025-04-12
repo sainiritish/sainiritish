@@ -30,7 +30,7 @@
 
     </td>
     <td width="40%" align="center">
-      <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1643548744294/B8GmtvRkF.gif" alt="Better coding gif" width="300" />
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding gif" width="300" />
     </td>
   </tr>
 </table>
