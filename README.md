@@ -49,9 +49,9 @@
 
 ### 🛠️ Languages and Tools
 
-<p align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,express,tailwind,redux,typescript,vue,java,python,php,mysql,postgres,git,figma,photoshop,postman" />
-</p>
+</div>
 
 ---
 
