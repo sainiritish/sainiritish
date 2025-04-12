@@ -40,7 +40,7 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/ritish saini" target="blank">
+  <a href="https://www.linkedin.com/in/ritish-saini-414132222/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" height="30" />
   </a>
 </p>
